@@ -1,0 +1,16 @@
+[
+        { "id": 1, "name": "Rose", "type": "Flower", "color": "Red", "height": 40, "location": "Garden", "images": "https://example.com/rose.jpg" },
+        { "id": 2, "name": "Sunflower", "type": "Flower", "color": "Yellow", "height": 60, "location": "Garden", "images": "https://example.com/sunflower.jpg" },
+        { "id": 3, "name": "Lotus", "type": "Flower", "color": "Pink", "height": 30, "location": "Pond", "images": "https://example.com/lotus.jpg" },
+        { "id": 4, "name": "Marigold", "type": "Flower", "color": "Orange", "height": 25, "location": "Garden", "images": "https://example.com/marigold.jpg" },
+        { "id": 5, "name": "Jasmine", "type": "Flower", "color": "White", "height": 50, "location": "Garden", "images": "https://example.com/jasmine.jpg" },
+        { "id": 6, "name": "Mint", "type": "Herb", "color": "Green", "height": 30, "location": "Kitchen", "images": "https://example.com/mint.jpg" },
+        { "id": 7, "name": "Snake Plant", "type": "Herb", "color": "Green", "height": 25, "location": "Indoor", "images": "https://example.com/snakeplant.jpg" },
+        { "id": 8, "name": "Money Plant", "type": "Herb", "color": "Green", "height": 15, "location": "Indoor", "images": "https://example.com/moneyplant.jpg" },
+        { "id": 9, "name": "Aloe Vera", "type": "Herb", "color": "Green", "height": 20, "location": "Indoor", "images": "https://example.com/aloevera.jpg" },
+        { "id": 10, "name": "Basil", "type": "Herb", "color": "Green", "height": 30, "location": "Kitchen", "images": "https://example.com/basil.jpg" },
+        { "id": 11, "name": "Thyme", "type": "Herb", "color": "Green", "height": 20, "location": "Kitchen", "images": "https://example.com/thyme.jpg" },
+        { "id": 12, "name": "Cilantro", "type": "Herb", "color": "Green", "height": 25, "location": "Kitchen", "images": "https://example.com/cilantro.jpg" },
+        { "id": 13, "name": "Parsley", "type": "Herb", "color": "Green", "height": 25, "location": "Kitchen", "images": "https://example.com/parsley.jpg" }
+]
+      
